@@ -5,7 +5,7 @@
 <?php 
 
 echo "<h1 style='font-size:72px; color:red; '>RAHUL first project</h1>";
-
+echo "<h1 style='font-size:72px; color:green; '> new line</h1>";
 
 ?>
 </div>
